@@ -27,5 +27,3 @@ This ensures the system produces answers that are **factual, grounded, and legal
 
 ---
 
-## 📂 Repository Contents
-
